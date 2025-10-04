@@ -5,9 +5,9 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-> **✨ Now Stable!** Remote Functions officially launched in August 2025 with SvelteKit 2.27+
+> **🔬 Explore Upcoming Features!** Remote Functions are an experimental feature in SvelteKit, offering a type-safe alternative to tRPC for full-stack development.
 
-An interactive demonstration of **SvelteKit Remote Functions** patterns, showcasing type-safe client-server communication with live examples. Explore different async data loading patterns including queries, commands, and forms.
+An interactive demonstration of **SvelteKit Remote Functions** patterns, showcasing type-safe client-server communication with live examples. Experience the future of SvelteKit with end-to-end type safety, automatic serialization, and built-in query batching—no separate API layer required.
 
 ## 🎯 What are Remote Functions?
 

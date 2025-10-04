@@ -18,12 +18,12 @@
 	</a>
 
 	<!-- Main Content -->
-	<main class="flex-grow">
+	<main class="flex-grow px-4">
 		{@render children()}
 	</main>
 
 	<!-- Footer -->
-	<footer class="border-t border-border bg-card py-6">
+	<footer class="border-t border-border bg-card py-6 px-4">
 		<div class="container mx-auto max-w-4xl text-center">
 			<p class="flex items-center justify-center gap-2 text-sm text-muted-foreground">
 				<span>Created by</span>

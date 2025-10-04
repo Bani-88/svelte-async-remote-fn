@@ -46,6 +46,16 @@
 			name: 'Dynamic import (no # syntax test)',
 			href: '/dynamic-import-no-hash',
 			description: 'Testing if {await} works without # symbol'
+		},
+		{
+			name: 'Batched queries',
+			href: '/batched-queries',
+			description: 'Multiple queries batched into a single network request'
+		},
+		{
+			name: 'Waterfall loading (anti-pattern)',
+			href: '/waterfall',
+			description: 'Sequential loading where each query depends on the previous result'
 		}
 	];
 </script>

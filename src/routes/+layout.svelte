@@ -23,7 +23,7 @@
 	</main>
 
 	<!-- Footer -->
-	<footer class="border-t border-border bg-card py-6 px-4">
+	<footer class="border-t border-border bg-card px-4 py-6">
 		<div class="container mx-auto max-w-4xl text-center">
 			<p class="flex items-center justify-center gap-2 text-sm text-muted-foreground">
 				<span>Created by</span>

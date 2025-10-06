@@ -33,6 +33,11 @@
 			description: 'Using form() with progressive enhancement'
 		},
 		{
+			name: 'Advanced form pattern',
+			href: '/advanced-form',
+			description: 'Comprehensive form demo: nested objects, arrays, files, validation, and more'
+		},
+		{
 			name: 'Error boundary',
 			href: '/error-boundary',
 			description: 'Using <svelte:boundary> to catch errors'

